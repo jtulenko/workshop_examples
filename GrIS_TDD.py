@@ -15,7 +15,7 @@ import db_info
 #                                                                                       #
 #########################################################################################
 
-[myhost,myport,myuser,mypassword,mydatabase] = db_info.credentials()
+[myhost,myport,myuser,mypassword,mydatabase,mydatabase2] = db_info.credentials()
 
 
 
